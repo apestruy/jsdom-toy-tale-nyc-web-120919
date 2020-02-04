@@ -12,6 +12,6 @@ document.addEventListener("DOMContentLoaded", ()=>{
       toyForm.style.display = 'none'
     }
   })
-
-
+  populateToys();
+  newToy();
 })
